@@ -1,4 +1,4 @@
-# Inclusive Web Performance and CX
+# 10x Web Performance Optimization Research
 
 This project contains research around web performance in the federal government to help hone in on a potential solution that can work at a large scale.
 
